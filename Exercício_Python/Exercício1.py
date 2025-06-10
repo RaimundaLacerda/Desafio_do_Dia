@@ -1,5 +1,5 @@
-def saudacao():
-print("Olá, mundo!")
+#def saudacao():
+#print("Olá, mundo!")
 
 #Corrigindo
 
